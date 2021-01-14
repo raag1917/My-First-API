@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First API</string>
+    <string name="country_name">Nombre del Pais:</string>
+    <string name="region">Subregion:</string>
+    <string name="capital">Capital:</string>
+    <string name="c_digo">Código:</string>
+    <string name="poblaci_n">Población:</string>
+    <string name="rea">Área:</string>
+</resources>
